@@ -9,9 +9,9 @@
 <br><br>
 <img src="images/TenotiklanUIDva.png"/>
 <br><br>
-<img src="images/TutorialLevel.png"/>
-<br><br>
 <img src="images/TenotiklanFindTheKey.png"/>
+<br><br>
+<img src="images/TutorialLevel.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
