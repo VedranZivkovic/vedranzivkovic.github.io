@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tenotiklan The Temple of Tenoch](/https://itch.io/search?q=tenotiklan)
+<img src="images/TenotiklanUI.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
