@@ -7,8 +7,6 @@
 [Tenotiklan The Temple of Tenoch](/https://itch.io/search?q=tenotiklan)
 <img src="images/TenotiklanUI.png"/>
 <br><br>
-<img src="images/TenotiklanUIDva.png"/>
-<br><br>
 <img src="images/TenotiklanFindTheKey.png"/>
 <br><br>
 <img src="images/TutorialLevel.png"/>
