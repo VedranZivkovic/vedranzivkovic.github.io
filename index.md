@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Tenotiklan The Temple of Tenoch](/https://itch.io/search?q=tenotiklan)
 <img src="images/TenotiklanUI.png"/>
