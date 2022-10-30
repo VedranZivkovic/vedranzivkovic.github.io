@@ -17,7 +17,7 @@
 <br><br>
 <img src="images/3D_Sphere.jpg"/>
 <br><br>
-<source src="/images/Sisyphus Sphere.mov" type="video/mov" />
+<source src="/images/Sisyphus Sphere.mov" type="images/mov" />
 
 
 ---
