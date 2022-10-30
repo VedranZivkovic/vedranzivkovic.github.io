@@ -4,21 +4,21 @@
 
 ### Projects 
 
-[Tenotiklan The Temple of Tenoch](/https://itch.io/search?q=tenotiklan)
+[TENOTIKLAN THE TEMPLE OF TENOCH](/https://itch.io/search?q=tenotiklan)
 <br><br>
 <img src="images/TenotiklanUI.png"/>
 <br><br>
 <img src="images/TenotiklanFindTheKey.png"/>
 <br><br>
 <img src="images/TutorialLevel.png"/>
+<br><br>
+---
+[ONE MUST IMAGINE SISYPHUS HAPPY - AAR ART EXHIBITION](/pdf/sample_presentation.pdf)
+<br><br>
+<img src="images/3D_Sphere.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
