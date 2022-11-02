@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[TENOTIKLAN THE TEMPLE OF TENOCH](/https://itch.io/search?q=tenotiklan)
+[TENOTIKLAN THE TEMPLE OF TENOCH](https://itch.io/search?q=tenotiklan)
 <br><br>
 <img src="images/TenotiklanUI.png"/>
 <br><br>
@@ -13,12 +13,17 @@
 <img src="images/TutorialLevel.png"/>
 <br><br>
 ---
-[ONE MUST IMAGINE SISYPHUS HAPPY - AAR ART EXHIBITION](/pdf/sample_presentation.pdf)
+[ONE MUST IMAGINE SISYPHUS HAPPY - AR ART EXHIBITION](https://web.facebook.com/events/1122528935036721)
 <br><br>
 <img src="images/3D_Sphere.jpg"/>
 <br><br>
 <source src="/images/Sisyphus Sphere.mov" type="images/mov" />
-
+<br><br>
+<img src="images/HaveFun.jpg"/>
+<br><br>
+<img src="images/Take_a_break.jpg"/>
+<br><br>
+<img src="images/Hasten_slowly.jpg"/>
 
 ---
 
